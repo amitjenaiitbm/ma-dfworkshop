@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MA DFWorkshop
-email: amitjenaiitbm@gmail.com
+title: Digital Fabrication Workshop
+email: venkatr@iitb.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   Information graphics reveal the, explain the complex and illuminate the obscure.
-baseurl: "https://amitjenaiitbm.github.io/ma-dfworkshop/" # the subpath of your site, e.g. /blog
-url: "https://amitjenaiitbm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  amitjenaiitbm
+baseurl: "https://info-design-lab.github.io/ma-dfworkshop/" # the subpath of your site, e.g. /blog
+url: "https://info-design-lab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  info-design-lab
 permalink: /:title
 # Build settings
 markdown: kramdown
