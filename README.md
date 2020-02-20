@@ -1,4 +1,4 @@
-# DE-614 | DIgital Fabrication Workshop
+# DE-614 | Digital Fabrication Workshop
 
 In a 5 day workshop (15-21 February 2020), students at IDC School of Design designed musical instruments for the differently abled people comprising of visually impaired, hand amputees and paraplegic individuals. We designed string based electronic / digital mediums of instrument making, along with Digital Fabrication processes to build these instruments. The workshop was aligned to the United Nations Sustainable Development Goal Number 10 - Reduced Inequalities.
 
