@@ -134,8 +134,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -144,7 +144,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -346,7 +346,7 @@ a {
 .post-cover-img {
     width: calc(100% + 128px);
     margin-left: -64px;
-    height: 332px;
+    height: 500px;
     background-size: cover;
     background-position: center;
     background-color: $whiteblue;
@@ -521,11 +521,11 @@ a {
 
 
 
-@media all and (max-width: 1199px) { 
+@media all and (max-width: 1199px) {
     .container {
         width: 925px;
     }
-} 
+}
 @media all and (max-width: 991px) {
     .container {
         width: 768px;
@@ -533,7 +533,7 @@ a {
     .container-text {
         padding: 0px 64px;
     }
-} 
+}
 @media all and (max-width: 768px) {
     .prof {
         display: none!important;
@@ -572,7 +572,7 @@ a {
     .container-text {
         padding: 0px 64px;
     }
-} 
+}
 @media all and (max-width: 575px) {
     .project-card {
         margin-left: 32px;
