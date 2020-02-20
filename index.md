@@ -1,5 +1,5 @@
 ---
-title: DE 303 | Digital Fabrication Workshop
+title: Digital Fabrication Workshop
 layout: home
 ---
 
