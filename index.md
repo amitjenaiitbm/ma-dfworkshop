@@ -1,14 +1,17 @@
 ---
-title: DE 303 | Information Graphics and Visualization
+title: DE 303 | Digital Fabrication Workshop
 layout: home
 ---
 
-Information graphics reveal the hidden, explain the complex and illuminate the obscure. Constructing visual representation of information is not mere translation of what can be read to what can be seen. It entails filtering the information, establishing relationships, discerning patterns and representing them in a manner that enables a consumer of that information construct meaningful knowledge.
+In a 5 day workshop (15-21 February 2020), students at IDC School of Design designed musical instruments for differently abled people comprising of Visually impaired, Hand amputees and Paraplegic individuals. We will be looking at string based electronic / Digital mediums of Instrument making, along with Digital Fabrication processes to build these instruments.
+
+Workshop sessions were scheduled at IDC School of Design and Maker’s Asylum (a short auto ride away at Marol MIDC Industrial Estate).
 
 
 
-    
 
-### Course Structure
 
-The course comprised of three major assignments - replication of an already established data visualization, redesigning that into something better, and finally porting the same data and visualizing it through a different medium.
+### Program structure
+1. Designing thinking and user study to understand the user and needs
+2. Training on Digital Fabrication and Electronic circuit bending for fabrication
+3. Prototyping and testing
